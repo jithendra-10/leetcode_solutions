@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Greedy
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
+## Sorting
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
