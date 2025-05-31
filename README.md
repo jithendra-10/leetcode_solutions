@@ -55,4 +55,12 @@
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
