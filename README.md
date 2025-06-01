@@ -10,6 +10,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
