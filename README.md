@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
