@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
@@ -74,4 +75,9 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## String
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
