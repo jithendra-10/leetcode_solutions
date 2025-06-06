@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -79,5 +82,6 @@
 ## String
 |  |
 | ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
