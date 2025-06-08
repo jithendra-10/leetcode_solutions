@@ -88,4 +88,12 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jithendra-10/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jithendra-10/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jithendra-10/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
