@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,10 +49,12 @@
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
