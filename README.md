@@ -53,6 +53,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jithendra-10/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
