@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Math
 |  |
@@ -87,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Database
