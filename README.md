@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jithendra-10/leetcode_solutions/tree/master/0290-word-pattern) |
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0747-min-cost-climbing-stairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -66,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 ## Dynamic Programming
 |  |
@@ -89,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jithendra-10/leetcode_solutions/tree/master/0290-word-pattern) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
