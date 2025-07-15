@@ -96,6 +96,7 @@
 | [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jithendra-10/leetcode_solutions/tree/master/0290-word-pattern) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/jithendra-10/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3396-valid-word](https://github.com/jithendra-10/leetcode_solutions/tree/master/3396-valid-word) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Database
 |  |
