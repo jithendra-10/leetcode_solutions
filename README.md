@@ -43,6 +43,7 @@
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/jithendra-10/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
