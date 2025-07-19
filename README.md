@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jithendra-10/leetcode_solutions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/jithendra-10/leetcode_solutions/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
