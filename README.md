@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jithendra-10/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/jithendra-10/leetcode_solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jithendra-10/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
@@ -57,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -101,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jithendra-10/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/jithendra-10/leetcode_solutions/tree/master/0273-integer-to-english-words) |
