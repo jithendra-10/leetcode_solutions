@@ -14,6 +14,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/jithendra-10/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/jithendra-10/leetcode_solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jithendra-10/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/jithendra-10/leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jithendra-10/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/jithendra-10/leetcode_solutions/tree/master/0066-plus-one) |
 | [0747-min-cost-climbing-stairs](https://github.com/jithendra-10/leetcode_solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1095-two-city-scheduling](https://github.com/jithendra-10/leetcode_solutions/tree/master/1095-two-city-scheduling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/jithendra-10/leetcode_solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
