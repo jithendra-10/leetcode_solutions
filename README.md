@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/jithendra-10/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/jithendra-10/leetcode_solutions/tree/master/0273-integer-to-english-words) |
+| [0728-self-dividing-numbers](https://github.com/jithendra-10/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jithendra-10/leetcode_solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
