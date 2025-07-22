@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/jithendra-10/leetcode_solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/jithendra-10/leetcode_solutions/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/jithendra-10/leetcode_solutions/tree/master/0273-integer-to-english-words) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/jithendra-10/leetcode_solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jithendra-10/leetcode_solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jithendra-10/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jithendra-10/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
